@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>サイコロくじ</title>
+</head>
+<body>
+    <h1>サイコロのくじ</h1>
+    <p>サイコロの結果: 6面体サイコロ = {{ dice_result }}</p>
+    <p>サイコロの結果: 10面体サイコロ = {{ ten_sided_dice_result }}</p>
+    <p>C = {{ C }}</p>
+    <p>再度のサイコロの結果 = {{ second_dice_result }}</p>
+    <p>d = {{ d }}</p>
+</body>
+</html>
